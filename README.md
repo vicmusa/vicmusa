@@ -1,4 +1,7 @@
-### Hi there 👋
+## README IN PROGRESS...
+### Hi Everyone I'm Victor 👋
+## telecommunication Engineer
+##
 
 <!--
 **vicmusa/vicmusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
